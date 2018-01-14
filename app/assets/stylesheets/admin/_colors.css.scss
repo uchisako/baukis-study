@@ -1,0 +1,23 @@
+/* gray */
+
+$dark_gray: #666666;
+$gray: #cccccc;
+$light_gray: #eeeeee;
+$very_light_gray: #fafafa;
+
+/* cyan */
+
+$dark_cyan: #448888;
+$very_dark_cyan: darken($dark_cyan, 25%);
+
+/* magenta */
+
+$magenta: #ff00ff;
+$dark_magenta: darken($magenta, 25%);
+
+/* red */
+$red: #cc0000;
+$pink: #ffcccc;
+
+/* green */
+$green: #00cc00;

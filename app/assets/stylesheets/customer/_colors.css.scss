@@ -1,0 +1,16 @@
+/* gray */
+
+$dark_gray: #666666;
+$gray: #cccccc;
+$light_gray: #eeeeee;
+$very_light_gray: #fafafa;
+
+/* cyan */
+
+$dark_cyan: #448888;
+$very_dark_cyan: darken($dark_cyan, 25%);
+
+/* yellow */
+
+$yellow: #ffff00;
+$dark_yellow: darken($yellow, 25%);
